@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 
-modelclf = joblib.load("./model/model.m")
+modelclf = joblib.load("model.m")
 
 
 def cal_pro(test_data):
