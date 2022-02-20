@@ -5,5 +5,6 @@ Spontaneous intracerebral hemorrhage (SICH) is common in China with high morbidi
 # Installation
 1.Go to your Postman (or other similar REST client).It is recommended to call the service with a python script, for example, test.py.
 2.Method: POST
+
 3.URL: http://localhost:5001/api
 
