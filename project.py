@@ -3,7 +3,7 @@ import numpy as np
 from xgboost import XGBClassifier
 
 modelclf = XGBClassifier()
-modelclf.load_model("./model/model.bin")
+modelclf.load_model("model.bin")
 
 
 def cal_pro(test_data):
